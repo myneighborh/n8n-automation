@@ -1,4 +1,5 @@
 # n8n-automation
+## An automated workflow that collects and summarizes news based on keywords from a Google Sheet and sends the results via email every day.
 ![제미나이_뉴스_요약_800](https://github.com/user-attachments/assets/943a939c-3a4c-43e8-9078-a3ec5a576f2a)
 
 ![로컬_뉴스_요약_800](https://github.com/user-attachments/assets/27fb3a4d-cde0-49b1-8f9f-bac9f93adaac)
