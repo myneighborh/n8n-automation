@@ -5,5 +5,5 @@
 ![로컬_뉴스_요약_800](https://github.com/user-attachments/assets/27fb3a4d-cde0-49b1-8f9f-bac9f93adaac)
 ### An automated workflow that generates a video from a Telegram message using the Google Gemini model, uploads it to Drive, and sends the result back via Telegram.
 ![영상만들기_800](https://github.com/user-attachments/assets/330aaa91-d816-4e99-bee8-eea41b8c6aba)
-
+### An AI agent workflow that generates contextual responses using Google Gemini, real-time search, and memory.
 ![챗봇](https://github.com/user-attachments/assets/b0eaa069-b678-4e8a-957c-53020e26197c)
